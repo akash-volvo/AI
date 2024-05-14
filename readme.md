@@ -1,4 +1,4 @@
-# Node.js, Express.js, and WebDriverIO Practice Repository
+# AI Repository
 
 This repository aims to automate fixing of XPath errors in Test Automation
 
