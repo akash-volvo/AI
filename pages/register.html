@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register - Volvo Cars</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #e3e6e8;
+            color: #343a40;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .jumbotron {
+            background-color: #fff;
+            padding-top: 15px;
+            padding-bottom: 10px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-weight: 600;
+            color: #000;
+        }
+
+        .about-section {
+            background-color: #fff;
+            padding: 35px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 600;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            color: #000;
+        }
+
+        p {
+            font-size: 1.2rem;
+        }
+
+        .btn-dark {
+            background-color: #343a40;
+            border-color: #343a40;        }
+
+        .btn-dark:hover {
+            background-color: #23272b;
+            border-color: #23272b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Register</h1>
+        </div>
+
+        
+        <div class="about-section">
+            <p>Create your account and experience the world of Volvo Cars.</p>
+        
+            <div class="form-container">
+                <form id="registerForm">
+
+                    <div class="row">
+                    <div class="form-group col-6">
+                        <label for="firstName">First Name</label>
+                        <input type="text" class="form-control" id="firstName" placeholder="Enter your first name..." required>
+                    </div>
+                    
+                    <div class="form-group col-6">
+                        <label for="lastName">Last Name</label>
+                        <input type="text" class="form-control" id="lastName" placeholder="Enter your last name..." required>
+                    </div>
+                </div>
+                    
+                <div class="row">
+                    <div class="form-group col-6">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" id="email" placeholder="Enter your email..." required>
+                    </div>
+                    
+                    <div class="form-group col-6">
+                        <label for="phone">Phone</label>
+                        <input type="tel" class="form-control" id="phone" placeholder="Enter your phone number..." required>
+                    </div>
+                </div>
+
+                    <div class="form-group">
+                        <label for="address">Address</label>
+                        <input type="text" class="form-control" id="address" placeholder="Enter your address..." required>
+                    </div>
+                    
+                    <div class="row">
+                    <div class="form-group col-4">
+                        <label for="city">City</label>
+                        <input type="text" class="form-control" id="city" placeholder="Enter your city..." required>
+                    </div>
+                    
+                    <div class="form-group col-4">
+                        <label for="state">State</label>
+                        <input type="text" class="form-control" id="state" placeholder="Enter your state..." required>
+                    </div>
+                    
+                    <div class="form-group col-4">
+                        <label for="zip">Zip Code</label>
+                        <input type="text" class="form-control" id="zip" placeholder="Enter your zip code..." required>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="country">Select Country</label>
+                    <select class="form-control" id="country">
+                        <option value="" selected disabled>Select your country</option>
+                        <option value="usa">USA</option>
+                        <option value="canada">Canada</option>
+                        <option value="japan">Japan</option>
+                        <option value="china">China</option>
+                        <option value="russia">Russia</option>
+                        <option value="india">India</option>
+                        <option value="brazil">Brazil</option>
+                        <option value="australia">Australia</option>
+                    </select>
+                </div>
+                    
+                    <div class="form-group">
+                        <label for="dob">Date of Birth</label>
+                        <input type="date" class="form-control" id="dob" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="gender">Gender</label>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="gender" id="male" value="male" required>
+                            <label class="form-check-label" for="male">Male</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="gender" id="female" value="female" required>
+                            <label class="form-check-label" for="female">Female</label>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="interests">Interests</label>
+
+                        <div class="row pl-3 pr-3">
+                            <div class="form-check col-4">
+                                <input class="form-check-input" type="checkbox" id="sports" value="sports">
+                                <label class="form-check-label" for="sports">Sports</label>
+                            </div>
+                            <div class="form-check col-4">
+                                <input class="form-check-input" type="checkbox" id="movies" value="movies">
+                                <label class="form-check-label" for="movies">Movies</label>
+                            </div>
+                            <div class="form-check col-4">
+                                <input class="form-check-input" type="checkbox" id="tvshow" value="tvshow">
+                                <label class="form-check-label" for="tvshow">TV Shows</label>
+                            </div>
+                        </div>
+                        <div class="row pl-3 pr-3">
+                            <div class="form-check col-4">
+                                <input class="form-check-input" type="checkbox" id="music" value="music">
+                                <label class="form-check-label" for="music">Music</label>
+                            </div>
+                            <div class="form-check col-4">
+                                <input class="form-check-input" type="checkbox" id="books" value="books">
+                                <label class="form-check-label" for="books">Books</label>
+                            </div>
+                            <div class="form-check col-4">
+                                <input class="form-check-input" type="checkbox" id="politics" value="politics">
+                                <label class="form-check-label" for="politics">Politics</label>
+                            </div>
+                        </div>
+                        <div class="row pl-3 pr-3">
+                            <div class="form-check col-4">
+                                <input class="form-check-input" type="checkbox" id="science" value="science">
+                                <label class="form-check-label" for="science">Science</label>
+                            </div>
+                            <div class="form-check col-4">
+                                <input class="form-check-input" type="checkbox" id="technology" value="technology">
+                                <label class="form-check-label" for="technology">Technology</label>
+                            </div>
+                            <div class="form-check col-4">
+                                <input class="form-check-input" type="checkbox" id="business" value="business">
+                                <label class="form-check-label" for="business">Business</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="username">Username</label>
+                        <input type="text" class="form-control" id="username" placeholder="Enter your username..." required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="password" class="form-control" id="password" placeholder="Enter your password..." required>
+                    </div>
+                    <button type="submit" class="btn btn-dark btn-block bg-dark">Register</button>
+
+                    <div hidden class="alert alert-success mt-3" role="alert" id="status">
+                        Registered successfully!
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        document.getElementById('registerForm').addEventListener('submit', async function (event) {
+            event.preventDefault(); // Prevent the form from submitting normally
+
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            try {
+                const response = await fetch('/register', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ username, password })
+                });
+
+                if (response.ok) {
+                    showSuccessMessage();
+
+                } else {
+                    alert('Registration failed. Please try again.');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('An error occurred. Please try again later.');
+            }
+        });
+
+        function showSuccessMessage() {
+            var successMessage = document.getElementById('status');
+            successMessage.removeAttribute('hidden');
+        }
+    </script>
+</body>
+
+</html>

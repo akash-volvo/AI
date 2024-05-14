@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Volvo Cars</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #e3e6e8;
+            color: #343a40;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .jumbotron {
+            background-color: #fff;
+            padding-top: 15px;
+            padding-bottom: 10px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-weight: 600;
+            color: #000;
+        }
+
+        .about-section {
+            background-color: #fff;
+            padding: 35px;
+            padding-bottom: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 600;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            color: #000;
+        }
+
+        p {
+            font-size: 1.2rem;
+        }
+
+        .btn-dark {
+            background-color: #343a40;
+            border-color: #343a40;        }
+
+        .btn-dark:hover {
+            background-color: #23272b;
+            border-color: #23272b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Welcome to Volvo Cars</h1>
+        </div>
+
+        <div class="about-section">
+            <h2>About Volvo</h2>
+            <p>Volvo Cars is a Swedish luxury automobile brand known for its commitment to safety, innovation, and sustainability. Founded in 1927, Volvo has been at the forefront of automotive engineering, introducing numerous safety features that have become industry standards. Volvo's vehicles are designed with cutting-edge technology to provide comfort, performance, and environmental consciousness.</p>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6">
+                <button type="button" onclick="window.location.href='/register'" class="btn btn-dark btn-block bg-dark">Register</button>
+            </div>
+            <div class="col-sm-6">
+                <button type="button" onclick="window.location.href='/login'" class="btn btn-dark btn-block bg-dark">Login</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

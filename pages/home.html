@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Volvo Cars</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #e3e6e8;
+            color: #343a40;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .jumbotron {
+            background-color: #fff;
+            padding-top: 15px;
+            padding-bottom: 10px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-weight: 600;
+            color: #000;
+        }
+
+        .about-section {
+            background-color: #fff;
+            padding: 35px;
+            padding-bottom: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 600;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            color: #000;
+        }
+
+        p {
+            font-size: 1.2rem;
+        }
+
+        .btn-dark {
+            background-color: #343a40;
+            border-color: #343a40;        }
+
+        .btn-dark:hover {
+            background-color: #23272b;
+            border-color: #23272b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1 id="welcome"></h1>
+        </div>
+
+        <div class="about-section">
+            <img src="volvo.png"></img>
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+    window.onload = function() {
+        const username = localStorage.getItem('username');
+        document.getElementById("welcome").innerText = "Welcome to Volvo Cars, " + username;
+    };
+    </script>
+</body>
+</html>
