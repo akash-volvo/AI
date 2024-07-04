@@ -1,0 +1,1 @@
+<div lwc-193toeobrj="" class="slds-m-left_small slds-p-horizontal_small slds-p-vertical_xx-small item" style="background: #ACF3E4; color: #056764"><!----><span lwc-193toeobrj="">0&nbsp;€ Open</span><!----></div>
