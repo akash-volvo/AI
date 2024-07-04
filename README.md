@@ -5,10 +5,11 @@ This document includes instructions for installing the necessary packages, setti
 ## Prerequisites
 
 - Python 3.x
+- Word2Vec Pre-Trained Model
 
 ## Installation Instructions
 
-### Step 1: Install Python
+### Install Python
 
 If you don't have Python installed, follow these steps:
 
@@ -16,17 +17,23 @@ If you don't have Python installed, follow these steps:
 2. Run the installer and follow the installation instructions.
 3. Ensure that Python is added to your system PATH.
 
+### Copy Word2Vec Model
+
+Copy the .bin file into the `Algorithm` folder
+
+
 ### Step 2: Clone the Repository
-
-Clone this repository to your local machine:
-
 ```bash
 git clone https://github.com/akash-volvo/AI.git
 ```
+
+
 ### Step 3: Install the required packages
 ```bash
 pip install -r requirements.txt
 ```
+
+
 ### Step 4: Run the algorithm to find similarity/ Run the algorithm to suggest weights
 ```bash
 python3 index.py
