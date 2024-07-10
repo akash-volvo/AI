@@ -1,0 +1,1 @@
+    <h2 class="slds-card__header-title" lwc-29h8avnn4il="">Close Deals</h2>

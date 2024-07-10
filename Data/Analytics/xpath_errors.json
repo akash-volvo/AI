@@ -1,0 +1,30 @@
+[
+    {
+        "error": "Element <ELEMENT_SELECTOR> not displayed after <TIMEOUT_PERIOD>",
+        "count": 8125
+    },
+    {
+        "error": "Element <ELEMENT_SELECTOR> is not displayed",
+        "count": 1277
+    },
+    {
+        "error": "Can't call <FUNCTION> on element <ELEMENT_SELECTOR> because element wasn't found",
+        "count": 1069
+    },
+    {
+        "error": "Element <ELEMENT_SELECTOR> to not be displayed after <TIMEOUT_PERIOD>",
+        "count": 369
+    },
+    {
+        "error": "Element <ELEMENT_SELECTOR> not clickable after <TIMEOUT_PERIOD>",
+        "count": 130
+    },
+    {
+        "error": "Element <ELEMENT_SELECTOR> not enabled after <TIMEOUT_PERIOD>",
+        "count": 50
+    },
+    {
+        "error": "Element <ELEMENT_SELECTOR> to exist after <TIMEOUT_PERIOD>",
+        "count": 17
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "error": "Error: ERROR - ENV: Expected element text <ELEMENT_SELECTOR> after <TIMEOUT_PERIOD>",
+        "count": 1343
+    },
+    {
+        "error": "AssertionError: Error while processing email:AssertionError: No email received.",
+        "count": 472
+    },
+    {
+        "error": "AxiosError: Authorizing to Salesforce API failed!",
+        "count": 438
+    },
+    {
+        "error": "Error: Element with selector <ELEMENT_SELECTOR> is not matching expected length",
+        "count": 339
+    },
+    {
+        "error": "Step <ELEMENT_SELECTOR> is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 241
+    },
+    {
+        "error": "no such window: no such window: target window already closed",
+        "count": 238
+    },
+    {
+        "error": "WebDriver Error: Session not started or terminated",
+        "count": 213
+    },
+    {
+        "error": "ReferenceError: Unable to find <ELEMENT_SELECTOR> in list",
+        "count": 213
+    },
+    {
+        "error": "Error: Url not changed",
+        "count": 163
+    },
+    {
+        "error": "AssertionError [ERR_ASSERTION]: Agent logout is not successful",
+        "count": 161
+    },
+    {
+        "error": "AssertionError [ERR_ASSERTION]: User of type <ELEMENT_SELECTOR> and env <ELEMENT_SELECTOR> was not available.",
+        "count": 148
+    },
+    {
+        "error": "Error: ERROR - ENV: Login Account page is still displayed after 30 seconds",
+        "count": 147
+    },
+    {
+        "error": "Error: waitUntil condition timed out after <TIMEOUT_PERIOD>",
+        "count": 123
+    },
+    {
+        "error": "Error: The setValue/addValue command only take string or number values. If you like to use special characters, use the <ELEMENT_SELECTOR> command.",
+        "count": 117
+    },
+    {
+        "error": "Error: Timeout",
+        "count": 111
+    },
+    {
+        "error": "Error: Element with selector <ELEMENT_SELECTOR> does not exist on the page",
+        "count": 110
+    },
+    {
+        "error": "Error: Need to provide at least one of number or id",
+        "count": 108
+    },
+    {
+        "error": "Error: The element with selector <ELEMENT_SELECTOR> you are trying to pass into the execute method wasn't found",
+        "count": 104
+    },
+    {
+        "error": "TypeError: Cannot convert undefined or null to object",
+        "count": 92
+    },
+    {
+        "error": "Error: waitUntil condition failed with the following reason: unknown error: unhandled inspector error: <ELEMENT_SELECTOR>",
+        "count": 87
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text <ELEMENT_SELECTOR>",
+        "count": 68
+    },
+    {
+        "error": "",
+        "count": 66
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'toLowerCase')",
+        "count": 45
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'ownerID')",
+        "count": 40
+    },
+    {
+        "error": "Error: element list <ELEMENT_SELECTOR> stayed empty within <TIMEOUT_PERIOD>",
+        "count": 36
+    },
+    {
+        "error": "Error: User of type <ELEMENT_SELECTOR> and env <ELEMENT_SELECTOR> was not available.",
+        "count": 35
+    },
+    {
+        "error": "Error: Invalid Chai property: toBe. Did you mean <ELEMENT_SELECTOR>",
+        "count": 34
+    },
+    {
+        "error": "Error: Timed out waiting <TIMEOUT_PERIOD> for content",
+        "count": 31
+    },
+    {
+        "error": "stale element reference: stale element reference: stale element not found",
+        "count": 29
+    },
+    {
+        "error": "TypeError: this.validateSubjectAndDescription is not a function",
+        "count": 27
+    },
+    {
+        "error": "javascript error: javascript error: <ELEMENT_SELECTOR>",
+        "count": 21
+    },
+    {
+        "error": "AxiosError: Salesforce Composite API call failed!",
+        "count": 20
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <A <ELEMENT_SELECTOR>",
+        "count": 19
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected attribute <ELEMENT_SELECTOR> after <TIMEOUT_PERIOD>",
+        "count": 17
+    },
+    {
+        "error": "AssertionError: true",
+        "count": 16
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'UKExecOfCaseQueue')",
+        "count": 16
+    },
+    {
+        "error": "invalid element state: invalid element state: Element is not currently interactable and may not be manipulated",
+        "count": 16
+    },
+    {
+        "error": "Error: Workstep status - Finance Response Awaiting is not valid",
+        "count": 15
+    },
+    {
+        "error": "Error: checkIncludes not valid",
+        "count": 14
+    },
+    {
+        "error": "TypeError: Cannot read properties of null (reading 'selector')",
+        "count": 14
+    },
+    {
+        "error": "Error: element list stayed empty within 4sec",
+        "count": 12
+    },
+    {
+        "error": "Error: Malformed type for <ELEMENT_SELECTOR> parameter of command getElementText",
+        "count": 10
+    },
+    {
+        "error": "AssertionError: 5000",
+        "count": 10
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'id')",
+        "count": 10
+    },
+    {
+        "error": "AssertionError [ERR_ASSERTION]: Business account data for country <ELEMENT_SELECTOR> was not available.",
+        "count": 8
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element attribute <ELEMENT_SELECTOR> after <TIMEOUT_PERIOD>",
+        "count": 7
+    },
+    {
+        "error": "Error: Timed out to load element text with selector <ELEMENT_SELECTOR>",
+        "count": 6
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <INPUT <ELEMENT_SELECTOR>",
+        "count": 5
+    },
+    {
+        "error": "invalid argument: invalid argument: missing 'ELEMENT'",
+        "count": 4
+    },
+    {
+        "error": "Error: element <ELEMENT_SELECTOR> still not clickable after <TIMEOUT_PERIOD>",
+        "count": 4
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading '0')",
+        "count": 4
+    },
+    {
+        "error": "ReferenceError: CbV Customer Support wasn't a valid choice for API Case creation!",
+        "count": 4
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'accountName')",
+        "count": 4
+    },
+    {
+        "error": "AssertionError: Error while processing email:Error: No ID found in the email body.",
+        "count": 4
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'name')",
+        "count": 3
+    },
+    {
+        "error": "ReferenceError: Escalation History Reason <ELEMENT_SELECTOR>",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Login Account page is still displayed after 15 seconds",
+        "count": 3
+    },
+    {
+        "error": "invalid element state: invalid element state",
+        "count": 3
+    },
+    {
+        "error": "Error: waitUntil condition failed with the following reason: Session not started or terminated",
+        "count": 3
+    },
+    {
+        "error": "Error: Assigned minutes 8 didn't match 9/10",
+        "count": 3
+    },
+    {
+        "error": "disconnected: disconnected: not connected to DevTools",
+        "count": 2
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'SE')",
+        "count": 2
+    },
+    {
+        "error": "Error: Vehicle support reason provided is not valid",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"sehr geehrte/r dealeratrewqcontact765,",
+        "count": 1
+    },
+    {
+        "error": "Error: null reason provided is not valid",
+        "count": 1
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'listOfIssueTypes')",
+        "count": 1
+    },
+    {
+        "error": "Error: Option with text <ELEMENT_SELECTOR> not found.",
+        "count": 1
+    },
+    {
+        "error": "TimeoutError: Request timed out",
+        "count": 1
+    },
+    {
+        "error": "Error: Assigned minutes (8) didn't match 8/9",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"case is escalated",
+        "count": 1
+    },
+    {
+        "error": "Error: number or type of arguments don't agree with execute protocol command",
+        "count": 1
+    },
+    {
+        "error": "unexpected alert open: unexpected alert open: {Alert text : }",
+        "count": 1
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <TEXTAREA <ELEMENT_SELECTOR>",
+        "count": 1
+    },
+    {
+        "error": "AssertionError",
+        "count": 1
+    }
+]

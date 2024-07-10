@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comprehensive Web Form</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <style>
+        /* Add your custom styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="text-center mb-4">Comprehensive Web Form</h1>
+        <form>
+            <div class="form-group">
+                <label for="fullName">Full Name</label>
+                <input type="text" class="form-control" id="fullName" placeholder="Enter your full name">
+            </div>
+            <div class="form-group">
+                <label for="email">Email address</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter your email">
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" class="form-control" id="password" placeholder="Enter your password">
+            </div>
+            <div class="form-group">
+                <label for="gender">Gender</label>
+                <select class="form-control" id="gender">
+                    <option value="">Select</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Interests</label>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="sports" id="interestsSports">
+                    <label class="form-check-label" for="interestsSports">Sports</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="music" id="interestsMusic">
+                    <label class="form-check-label" for="interestsMusic">Music</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="movies" id="interestsMovies">
+                    <label class="form-check-label" for="interestsMovies">Movies</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Preferred Language</label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="language" id="languageEnglish" value="english">
+                    <label class="form-check-label" for="languageEnglish">English</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="language" id="languageSpanish" value="spanish">
+                    <label class="form-check-label" for="languageSpanish">Spanish</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="comments">Comments</label>
+                <textarea class="form-control" id="comments" rows="3" placeholder="Enter your comments"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+    <!-- Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

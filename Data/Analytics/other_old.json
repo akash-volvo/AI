@@ -1,0 +1,2898 @@
+[
+    {
+        "error": "AssertionError: true",
+        "count": 16
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[2]//a//slot//*[contains(text(),\"Social Posts\")] is NOT DISPLAYED on the page",
+        "count": 7
+    },
+    {
+        "error": "AssertionError: ERROR - ENV: Expected element \"//div[@class=\"msg ltngDeveloperError\"]//span[text()=\"A Component Error has occurred!\"]\" to not be displayed after the given timeout 30000",
+        "count": 25
+    },
+    {
+        "error": "Error: waitUntil condition timed out after 60000ms",
+        "count": 4
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a lst-relatedlistquicklinksgrid_relatedlistquicklinksgrid=\"\" href=\"javascript:void(0)\">...</a> is not clickable at point (253, 387). Other element would receive the click: <div role=\"dialog\" aria-labelledby=\"title_3891:0\" aria-describedby=\"content_3891:0\" tabindex=\"-1\" aria-modal=\"true\" class=\"panel slds-modal slds-modal--prompt slds-fade-in-open\" data-aura-rendered-by=\"3908:0\" style=\"opacity: 1;\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //header[@id=\"oneHeader\"]//span[contains(text(),\"NSC Agent NO Test-CC-UAT\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Step \"I launch a performance test on \"LoginPage\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 11
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"New\" to equal \"In Progress\" after the given timeout 30000",
+        "count": 71
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //h1/slot/support-output-case-subject-field//lightning-formatted-text is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[text() =\"This case has been successfully reopened.  Click Finish to refresh this page.\"] is NOT DISPLAYED on the page",
+        "count": 3
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a lst-relatedlistquicklinksgrid_relatedlistquicklinksgrid=\"\" href=\"javascript:void(0)\">...</a> is not clickable at point (253, 420). Other element would receive the click: <div role=\"dialog\" aria-labelledby=\"title_3595:0\" aria-describedby=\"content_3595:0\" tabindex=\"-1\" aria-modal=\"true\" class=\"panel slds-modal slds-modal--prompt slds-fade-in-open\" data-aura-rendered-by=\"3612:0\" style=\"opacity: 1;\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a lst-relatedlistquicklinksgrid_relatedlistquicklinksgrid=\"\" href=\"javascript:void(0)\">...</a> is not clickable at point (253, 420). Other element would receive the click: <div role=\"dialog\" aria-labelledby=\"title_3574:0\" aria-describedby=\"content_3574:0\" tabindex=\"-1\" aria-modal=\"true\" class=\"panel slds-modal slds-modal--prompt slds-fade-in-open\" data-aura-rendered-by=\"3591:0\" style=\"opacity: 1;\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a lst-relatedlistquicklinksgrid_relatedlistquicklinksgrid=\"\" href=\"javascript:void(0)\">...</a> is not clickable at point (253, 338). Other element would receive the click: <div role=\"dialog\" aria-labelledby=\"title_3877:0\" aria-describedby=\"content_3877:0\" tabindex=\"-1\" aria-modal=\"true\" class=\"panel slds-modal slds-modal--prompt slds-fade-in-open\" data-aura-rendered-by=\"3894:0\" style=\"opacity: 1;\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //span[contains(@class,\"test-id__field-label\") and text()=\"Start Date\"] is NOT DISPLAYED on the page",
+        "count": 2
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'toLowerCase')",
+        "count": 45
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Confirm Work Order & Invoice\" to equal \"Closed\" after the given timeout 30000",
+        "count": 5
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@role=\"alertdialog\" and @data-key=\"success\"] is NOT DISPLAYED on the page",
+        "count": 278
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //header[@id=\"oneHeader\"]//span[contains(text(),\"CXO Test-CC-UAT\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //h1[@records-highlights2_highlights2] is NOT DISPLAYED on the page",
+        "count": 13
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element \"//div[contains(@class, \"spinnerWrapper\")]\" to not be displayed after the given timeout 100000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element \"//*[contains(@class,\"slds-spinner\") and @role=\"status\"]\" to not be displayed after the given timeout 100000",
+        "count": 11
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //header[@id=\"oneHeader\"]//span[contains(text(),\"Cbv Sweden Agent Test-CC-UAT\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'name')",
+        "count": 3
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //header[@id=\"oneHeader\"]//span[contains(text(),\"NSC Agent AU Test-CC-UAT\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //header[@id=\"oneHeader\"]//span[contains(text(),\"NSC Agent MY Test-CC-UAT\")] is NOT DISPLAYED on the page",
+        "count": 5
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element \"//button[@class='slds-button slds-button_brand nextButton']\" to not be displayed after the given timeout 3000",
+        "count": 70
+    },
+    {
+        "error": "Error: Element with selector '//div[@class=\"cCaseWebInformation\" or @class=\"cCaseWebInformationCbV\"]//lightning-output-field[not (contains(@class,\"slds-hide\"))]/span[@class=\"slds-form-element__label\"]' is not matching expected length",
+        "count": 52
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[text() =\"This case is cancelled.\"] is NOT DISPLAYED on the page",
+        "count": 4
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //span[text()=\"Case SLA\"]//following-sibling::div//span/img is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "no such window: no such window: target window already closed",
+        "count": 238
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"New\" to equal \"Triggers and Job Alignment\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element \"//a[@class=\"action-link\" and contains(text(),\"Log out\")]\" to not be displayed after the given timeout 30000",
+        "count": 117
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\" to equal \"Test Reason - Credit Note Approved\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"sehr geehrte/r dealeratrewqcontact765,",
+        "count": 1
+    },
+    {
+        "error": "Error: Element with selector '//h2[text()=\"Related List Quick Links\"]/ancestor::article/laf-progressive-container//a/slot/span' is not matching expected length",
+        "count": 61
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element \"//h2[text()=\"Mark as Done\"]//ancestor::div[@id=\"wrapper-body\"]\" to not be displayed after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"New\" to equal \"Case Information\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //header[@id=\"oneHeader\"]//span[contains(text(),\"NSC Agent SE Test-CC-UAT\")] is NOT DISPLAYED on the page",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-05-29 08:17\" to contain \"2023-05-31\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-05-29 16:30\" to contain \"2023-05-30\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[contains(@class,\"dateTime-inputDate\")]/input[contains(@class,\"input\")] is NOT DISPLAYED on the page",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-05 08:17\" to contain \"2023-06-06\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: waitUntil condition failed with the following reason: unknown error: unhandled inspector error: {\"code\":-32000,\"message\":\"No node with given id found\"}",
+        "count": 87
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"On Desk\" to equal \"Finance Response Awaiting\" after the given timeout 30000",
+        "count": 140
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-14 07:02\" to contain \"2023-06-16\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[contains(text(),\"Case Type cannot be deleted since there is reference of primary type or primary sub-type\")] is NOT DISPLAYED on the page",
+        "count": 9
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Case Information\" to equal \"Insurance Information\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-17 07:02\" to contain \"2023-06-19\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Planning\" to equal \"Confirm Work Order & Invoice\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: Malformed type for \"elementId\" parameter of command getElementText",
+        "count": 10
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"New\" to equal \"Confirm & Approve Subscription\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Insurance Information\" to equal \"Damage Inspection\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-05 08:17\" to contain \"2023-06-07\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //lightning-primitive-cell-factory[@data-label=\"Escalation Feedback\"]//lightning-base-formatted-text[text()=\"Resolved\"] is NOT DISPLAYED on the page",
+        "count": 2
+    },
+    {
+        "error": "Error: null reason provided is not valid",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element \"//button[@title=\"Save\" or @name=\"SaveEdit\" and @type=\"button\"]\" to not be displayed after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@class='allMilestones']//a[.=\"On Desk\"]/../following-sibling::div//lightning-icon[contains(@class, \"slds-icon-utility-check\")] is NOT DISPLAYED on the page",
+        "count": 6
+    },
+    {
+        "error": "TypeError: Cannot convert undefined or null to object",
+        "count": 92
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-22 07:02\" to contain \"2023-06-26\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-26 07:02\" to contain \"2023-06-28\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-27 07:02\" to contain \"2023-06-29\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Phone\" to equal \"Web Form\" after the given timeout 30000",
+        "count": 14
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"9 hr 58 min 59 sec\" to contain \"9 hr 59 min\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element \"#Login\" to not be displayed after the given timeout 5000",
+        "count": 128
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Vehicle Ordering & Temporary Car\" to equal \"Prepare Delivery\" after the given timeout 30000",
+        "count": 6
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Select a value for Primary type and Sub-type in the Case Wrap-up component\" to equal \"Remaining fields: Select a value for Primary type and Sub-type in the Case Wrap-up component,Please select a value for Regulated Decision field.,Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 11
+    },
+    {
+        "error": "Error: Element with selector '//flexipage-field-section2//h3/button/span' is not matching expected length",
+        "count": 21
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Please select a value for Regulated Decision field.\" to equal \"Remaining fields: Please select a value for Regulated Decision field.,Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@role=\"alertdialog\" and @data-key=\"error\"] is NOT DISPLAYED on the page",
+        "count": 47
+    },
+    {
+        "error": "Error: Need to provide at least one of number or id",
+        "count": 108
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'listOfIssueTypes')",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Status updated!\" to equal \"Status is updated!\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Return Preparation\" to equal \"Return of Car\" after the given timeout 30000",
+        "count": 5
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a lwc-4jsfuj0dov9=\"\" href=\"javascript:void(0)\">...</a> is not clickable at point (965, 806). Other element would receive the click: <div class=\"modal-container slds-modal__container\" data-aura-rendered-by=\"82:2029;a\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Prepare Delivery\" to equal \"Car Delivery\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Classification;On Desk\" to equal \"On Desk\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Finance Response Awaiting\" to equal \"On Desk\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "Error: Url not changed",
+        "count": 163
+    },
+    {
+        "error": "Error: The element with selector \"//span[text()=\"Workstep Status\"]/following-sibling::div/lightning-formatted-text\" you are trying to pass into the execute method wasn't found",
+        "count": 35
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Remaining fields: Please select a value for Regulated Decision field.,Please select a value for Requester field.\" to equal \"Remaining fields: Please select a value for Regulated Decision field.,Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 7
+    },
+    {
+        "error": "Error: Option with text \"Customer\" not found.",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[contains(@class,\"entityNameTitle\")]/parent::h1 is NOT DISPLAYED on the page",
+        "count": 93
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\" to equal \"Return Preparation\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"case type record is added successfully\" to contain \"this combination of type and sub-type already exists.\" after the given timeout 30000",
+        "count": 12
+    },
+    {
+        "error": "AssertionError: 5000",
+        "count": 10
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Financing\" to equal \"Insurance company\" after the given timeout 30000",
+        "count": 22
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Classification;On Desk\" to equal \"Customer Response Awaiting\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Cbv Sweden Agent Test-CC-UAT\" to equal \"CbV UK Agent Test-CC-UAT\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: Workstep status - Finance Response Awaiting is not valid",
+        "count": 15
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Return of Car\" to equal \"Post Return of Car Activities\" after the given timeout 30000",
+        "count": 4
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"New\" to equal \"Return Preparation\" after the given timeout 30000",
+        "count": 14
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //span[text()=\"Case SLA\"]//following-sibling::div//span/img[contains(@src,\"Green\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a lwc-4jsfuj0dov9=\"\" href=\"javascript:void(0)\">...</a> is not clickable at point (253, 350). Other element would receive the click: <div role=\"dialog\" aria-labelledby=\"title_1:2293;a\" aria-describedby=\"content_1:2293;a\" tabindex=\"-1\" aria-modal=\"true\" class=\"panel slds-modal slds-fade-in-open\" data-aura-rendered-by=\"16:2293;a\" style=\"opacity: 1;\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\" to equal \"In Progress\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Escalation History Reason \"Rejections\" not seen; found \"\"",
+        "count": 1
+    },
+    {
+        "error": "Error: The element with selector \"//label[text()=\"Reopen Source\"]/following-sibling::select[1]\" you are trying to pass into the execute method wasn't found",
+        "count": 5
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[contains(text(),\"This case is already closed.\")] is NOT DISPLAYED on the page",
+        "count": 5
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a lwc-4jsfuj0dov9=\"\" href=\"javascript:void(0)\">...</a> is not clickable at point (253, 416). Other element would receive the click: <div role=\"dialog\" aria-labelledby=\"title_1:6498;a\" aria-describedby=\"content_1:6498;a\" tabindex=\"-1\" aria-modal=\"true\" class=\"panel slds-modal slds-fade-in-open\" data-aura-rendered-by=\"18:6498;a\" style=\"opacity: 1;\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a lwc-4jsfuj0dov9=\"\" href=\"javascript:void(0)\">...</a> is not clickable at point (253, 350). Other element would receive the click: <div role=\"dialog\" aria-labelledby=\"title_64:2109;a\" aria-describedby=\"content_64:2109;a\" tabindex=\"-1\" aria-modal=\"true\" class=\"panel slds-modal slds-modal--prompt slds-fade-in-open\" data-aura-rendered-by=\"81:2109;a\" style=\"opacity: 1;\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "AssertionError [ERR_ASSERTION]: User of type '<agent>' and env 'QA' was not available.",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Remaining fields: Select a value for Primary type and Sub-type in the Case Wrap-up component,Please select a value for Requester field.,Please enter the resolution for this case.\" to equal \"Remaining fields: Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Status updated!\" to equal \"Remaining fields: Please select a value for Regulated Decision field.,Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Confirm & Approve Subscription\" to equal \"Vehicle Ordering & Temporary Car\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "WebDriver Error: Session not started or terminated",
+        "count": 213
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"On Desk\" to equal \"Classified\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: Timeout",
+        "count": 111
+    },
+    {
+        "error": "Error: Element with selector '//flexipage-component2[@data-component-id=\"flexipage_fieldSection12\"]//flexipage-field//span[@class=\"test-id__field-label\"]' is not matching expected length",
+        "count": 70
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"ComplaintIssueTypeCase\" to equal \"TestTech for DE\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"NSC United Kingdom/Ireland Default Entitlement Process\" to equal \"NSC United Kingdom/Ireland Complaint Entitlement Process\" after the given timeout 30000",
+        "count": 12
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"NSC Norway Default Entitlement Process\" to equal \"NSC Norway Complaint Entitlement Process\" after the given timeout 30000",
+        "count": 12
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"NSC Sweden Default Entitlement Process\" to equal \"NSC Sweden Complaint Entitlement Process\" after the given timeout 30000",
+        "count": 11
+    },
+    {
+        "error": "Error: Element with selector '//span[@class=\"slds-media__body\"]/span[@class=\"slds-truncate\" and @title=\"undefined\"]' is not displayed",
+        "count": 8
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Bollocks\" to equal \"ComplaintIssueTypeCase\" after the given timeout 30000",
+        "count": 52
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"NSC Germany Default Entitlement Process\" to equal \"NSC Germany Complaint Entitlement Process\" after the given timeout 30000",
+        "count": 11
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"NSC Sweden Default Entitlement Process\" to equal \"NSC Sweden Info Request Entitlement Process\" after the given timeout 30000",
+        "count": 9
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"NSC Norway Default Entitlement Process\" to equal \"NSC Norway Info Request Entitlement Process\" after the given timeout 30000",
+        "count": 7
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Dealer Response Awaiting\" to equal \"\" after the given timeout 30000",
+        "count": 10
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"nsc agent uk test-cc-uat <hchintak@volvocars.com>\" to contain \"volvo-support-uat@guerrillamail.com\" after the given timeout 30000",
+        "count": 8
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //lightning-primitive-cell-factory//a[contains(@class,\"displayLabel\") and @title=\"DEDealerRetailContact\"] is NOT DISPLAYED on the page",
+        "count": 5
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //lightning-primitive-cell-factory//a[contains(@class,\"displayLabel\") and @title=\"UKDealerRetailContact\"] is NOT DISPLAYED on the page",
+        "count": 5
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //lightning-primitive-cell-factory//a[contains(@class,\"displayLabel\") and @title=\"DealerDKContact\"] is NOT DISPLAYED on the page",
+        "count": 6
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //lightning-primitive-cell-factory//a[contains(@class,\"displayLabel\") and @title=\"FRDealerRetailContact\"] is NOT DISPLAYED on the page",
+        "count": 5
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //lightning-primitive-cell-factory//a[contains(@class,\"displayLabel\") and @title=\"DealerFIContact\"] is NOT DISPLAYED on the page",
+        "count": 4
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //lightning-primitive-cell-factory//a[contains(@class,\"displayLabel\") and @title=\"DealerATREWQContact\"] is NOT DISPLAYED on the page",
+        "count": 5
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //lightning-primitive-cell-factory//a[contains(@class,\"displayLabel\") and @title=\"DealerPTContact\"] is NOT DISPLAYED on the page",
+        "count": 5
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"On Desk\" to equal \"\" after the given timeout 30000",
+        "count": 5
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //flexipage-component2[@data-component-id=\"c_cc_caseContractTermination\"]//h2 is NOT DISPLAYED on the page",
+        "count": 33
+    },
+    {
+        "error": "Error: Timed out waiting 60000ms for content",
+        "count": 25
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"TestTech for NO\" to equal \"Einstein\" after the given timeout 30000",
+        "count": 7
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //a[text()=\"Consumer Details\"] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"rgba(68,68,68,1)\" does not equal expected text \"rgba(234,0,30,1)\"",
+        "count": 36
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'UKExecOfCaseQueue')",
+        "count": 16
+    },
+    {
+        "error": "Error: Timed out to load element text with selector '//span[@class=\"test-id__field-label\" and text()=\"Issue Type\"]/../following-sibling::div/span/span'",
+        "count": 6
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //span[@class=\"test-id__field-label\" and text()=\"Issue Type\"] is NOT DISPLAYED on the page",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Vehicle Ordering\" to equal \"Create Contract\" after the given timeout 30000",
+        "count": 7
+    },
+    {
+        "error": "Error: ERROR - ENV: Login Account page is still displayed after 30 seconds",
+        "count": 147
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //lightning-formatted-text[contains(@class,\"cardHeading\") and text()=\"Case Wrap-Up\"] is NOT DISPLAYED on the page",
+        "count": 4
+    },
+    {
+        "error": "Error: waitUntil condition timed out after 30000ms",
+        "count": 119
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a href=\"/secur/logout.jsp\" class=\"action-link\" target=\"_self\" data-aura-rendered-by=\"12:179;a\">...</a> is not clickable at point (1254, 18). Other element would receive the click: <div class=\"modal-container slds-modal__container\" data-aura-rendered-by=\"2367:0\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[text() =\"This case is closed.\"] is NOT DISPLAYED on the page",
+        "count": 4
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-08-27 23:00\" to contain \"2023-08-28\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-07 23:00\" to contain \"2023-09-08\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Sweden\" to equal \"Luxembourg\" after the given timeout 30000",
+        "count": 59
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"United Kingdom\" to equal \"Luxembourg\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Email\" to equal \"Web Form\" after the given timeout 30000",
+        "count": 13
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Customer Support Case\" to equal \"CbV Support Case\" after the given timeout 30000",
+        "count": 16
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //span[text()=\"Dealer\"]/../following-sibling::div//span[@class=\"displayLabel\"]/slot is NOT DISPLAYED on the page",
+        "count": 23
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-21 23:00\" to contain \"2023-09-22\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-26 17:00\" to contain \"2023-09-28\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-27 17:00\" to contain \"2023-09-29\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"case updated;email received;dealer updated;dealer task completed;agreement signed;file uploaded;dealer posted;agreement cancelled/declined;agreement expired;dealer task cancelled;follow-up;external documents\" to contain \"escalation closed\" after the given timeout 30000",
+        "count": 7
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Webform automation message for UK\" to equal \"Web Case UK\" after the given timeout 30000",
+        "count": 5
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@role=\"dialog\"]//a[text()=\"Account ID\"] is NOT DISPLAYED on the page",
+        "count": 32
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-10-23 17:00\" to contain \"2023-10-25\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: element list stayed empty within 4sec",
+        "count": 12
+    },
+    {
+        "error": "TimeoutError: Request timed out",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //flexipage-component2[@data-component-id=\"c_escalationHistoryInformation\"]//tr[1]/td[6]/div is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Remaining fields: Select a value for Primary type and Sub-type in the Case Wrap-up component,Please select a value for Regulated Decision field.,Please select a value for Requester field.,Please enter the resolution for this case.\" to equal \"Remaining fields: Please select a value for Regulated Decision field.,Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Status updated!\" to equal \"Remaining fields: Select a value for Primary type and Sub-type in the Case Wrap-up component,Please select a value for Regulated Decision field.,Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "ReferenceError: Escalation History Reason \"Ongoing Technical\" not seen; found \"\"",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-02 08:17\" to contain \"2023-06-05\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"volvo uk support <volvo-support-uat@guerrillamail.com>\" to contain \"custcare-uat@guerrillamail.com\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-05-30 08:17\" to contain \"2023-06-01\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-08 08:17\" to contain \"2023-06-12\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-07 08:17\" to contain \"2023-06-09\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: The element with selector \"//span[text()=\"Status\"]/parent::div/following-sibling::div//lightning-formatted-text[@slot=\"outputField\"]\" you are trying to pass into the execute method wasn't found",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-11 23:00\" to contain \"2023-09-12\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-17 23:00\" to contain \"2023-09-18\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Under bank my bank. Especially two police concern make. Himself not house nature trial magazine. Official goal lead world popular late maintain. Station war choice ready. Various song anything safe.\" to equal \"Web Case UK\" after the given timeout 30000",
+        "count": 5
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-19 23:00\" to contain \"2023-09-20\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Web Case BE\" to equal \"Web Case LU\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-20 23:00\" to contain \"2023-09-21\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "",
+        "count": 66
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-15 07:02\" to contain \"2023-06-19\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-23 07:02\" to contain \"2023-06-26\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Status Updated!\" to equal \"Remaining fields: ; Termination Reason, Sub- Reason and Win Back Status are required when closing a contract termination case.\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-24 07:02\" to contain \"2023-06-26\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-06-20 07:02\" to contain \"2023-06-22\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Login Account page is still displayed after 15 seconds",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"cbv uk order-to-delivery queue\" to contain \"cbv uk front-office queue\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "invalid element state: invalid element state",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-08-23 23:00\" to contain \"2023-08-24\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-08-22 23:00\" to contain \"2023-08-23\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "invalid argument: invalid argument: missing 'ELEMENT'",
+        "count": 4
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"Please ensure all key fields are populated before moving to the next stage\" does not equal expected text \"Please complete all required checklist items before moving to the next step.\"",
+        "count": 4
+    },
+    {
+        "error": "AssertionError [ERR_ASSERTION]: Business account data for country 'NE' was not available.",
+        "count": 4
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-08-17 23:00\" to contain \"2023-08-18\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError [ERR_ASSERTION]: Business account data for country 'BE' was not available.",
+        "count": 4
+    },
+    {
+        "error": "Step \"I verify Complaint Information section is visible and provide the value \"Forwarded\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"In Progress\" to equal \"Closed\" after the given timeout 30000",
+        "count": 7
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-08-19 23:00\" to contain \"2023-08-21\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-08-18 23:00\" to contain \"2023-08-21\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-08-20 23:00\" to contain \"2023-08-21\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-12 23:00\" to contain \"2023-09-13\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-14 23:00\" to contain \"2023-09-15\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-13 23:00\" to contain \"2023-09-14\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-09-18 23:00\" to contain \"2023-09-19\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: Timed out waiting 90000ms for content",
+        "count": 6
+    },
+    {
+        "error": "stale element reference: stale element reference: stale element not found",
+        "count": 29
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"https://volvocars--uat.sandbox.lightning.force.com/lightning/o/Order/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=169698409198654715&recordTypeId=0120O000000RNQVQA4\" does not include expected text \"8019E000003duZdQAI\"",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Escalation History Reason \"Legal\" not seen; found \"\"",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"nsc agent germany test-cc-uat <harish.kumar.chintakayala@volvocars.com>\" to contain \"customer-de-uat@guerrillamail.com\" after the given timeout 30000",
+        "count": 40
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Einstein\" to equal \"TestTech for NO\" after the given timeout 30000",
+        "count": 12
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected attribute \"title\" to contain \"types\" after the given timeout 30000",
+        "count": 17
+    },
+    {
+        "error": "AssertionError [ERR_ASSERTION]: Agent logout is not successful",
+        "count": 161
+    },
+    {
+        "error": "Error: Element with selector '//lightning-base-combobox-item//span[@title=\"Cash & Bank\"]' is not displayed",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"nsc agent fr test-cc-uat <harish.kumar.chintakayala@volvocars.com>\" to contain \"relation-client.volvo-uat@guerrillamail.com\" after the given timeout 30000",
+        "count": 28
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"nsc agent at test-cc-uat <hchintak@volvocars.com>\" to contain \"vcaccc-uat@guerrillamail.com\" after the given timeout 30000",
+        "count": 28
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //a[text()=\"Dealer Details\" and @class=\"slds-tabs_default__link\"] is NOT DISPLAYED on the page",
+        "count": 41
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02929433 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"08\" does not equal expected text \"07\"",
+        "count": 2
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02924288 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "disconnected: disconnected: not connected to DevTools",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"ComplaintIssueTypeCase\" to equal \"Bollocks\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"the selected email address (vcc switzerland) cannot be used for this case. please use the market's designated email address(es)\" to contain \"please send responses from the cbv uk email address\" after the given timeout 30000",
+        "count": 4
+    },
+    {
+        "error": "AxiosError: Salesforce Composite API call failed!",
+        "count": 20
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"other\" to contain \"vehicle support\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02928937 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Customer Response Awaiting;Lawyer/ Insurance Response Awaiting;Manufacturer Response Awaiting;Specialist Information Awaiting\" to equal \"Customer Response Awaiting;Specialist Information Awaiting;Lawyer/ Insurance Response Awaiting;Manufacturer Response Awaiting\" after the given timeout 30000",
+        "count": 32
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //span[text()=\"Workstep Priority\"]//following-sibling::div//span/img[contains(@src,\"Green\")] is NOT DISPLAYED on the page",
+        "count": 34
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Manufacturer Response Awaiting;Follow-Up\" to equal \"Follow-Up;Manufacturer Response Awaiting\" after the given timeout 30000",
+        "count": 4
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02925858 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"the selected email address (vcc switzerland) cannot be used for this case. please use the market's designated email address(es)\" to contain \"please send responses from the cbv no email address\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02925375 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02924531 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02924981 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[contains(text(),\"Input is not optional\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Error: Assigned minutes (8) didn't match 8/9",
+        "count": 1
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02924046 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'id')",
+        "count": 10
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Bollocks\" to equal \"TestTech for UK\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: waitUntil condition failed with the following reason: Session not started or terminated",
+        "count": 3
+    },
+    {
+        "error": "Step \"validate milestone \"On Desk\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 14
+    },
+    {
+        "error": "Step \"validate milestone \"Classification\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 13
+    },
+    {
+        "error": "Error: element (\"//a/div[@title=\"New Task\"]\") still not clickable after 30000ms",
+        "count": 4
+    },
+    {
+        "error": "Error: element list \"div.unsNotificationsPanel ul > li > a.notification-link\" stayed empty within 60000ms",
+        "count": 21
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02929931 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading '0')",
+        "count": 4
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-02 00:11\" to contain \"2024-01-01\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Jan 2, 2024\" to equal \"Jan 02, 2024\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"39\" does not equal expected text \"38\"",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Jan 3, 2024\" to equal \"Jan 03, 2024\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-03 00:12\" to contain \"2024-01-02\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Jan 5, 2024\" to equal \"Jan 05, 2024\" after the given timeout 30000",
+        "count": 5
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //a[@data-refid=\"recordId\" and text()=\"UKDealerRetailContact\"] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"1 hr 9 min 21 sec\" to contain \"3 hr 1\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Jan 1, 2024\" to equal \"Jan 01, 2024\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-01 00:15\" to contain \"2023-12-31\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: The element with selector \"//span[text()=\"VCC Market\"]/parent::div/following-sibling::div//button[@title=\"Edit VCC Market\"]\" you are trying to pass into the execute method wasn't found",
+        "count": 36
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-06 00:14\" to contain \"2024-01-05\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: Element with selector '//*[text() =\"Issue Type\"]/../following-sibling::div//a' is not displayed",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"MYR\" does not equal expected text \"SEK\"",
+        "count": 5
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"NOK\" does not equal expected text \"GBP\"",
+        "count": 10
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"GBP\" does not equal expected text \"NOK\"",
+        "count": 5
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a href=\"/secur/logout.jsp\" class=\"action-link\" target=\"_self\" data-aura-rendered-by=\"12:178;a\">...</a> is not clickable at point (1239, 18). Other element would receive the click: <div class=\"modal-container slds-modal__container\" data-aura-rendered-by=\"1821:0\">...</div>",
+        "count": 3
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[text()=\"Case\"]/following-sibling::slot//a[@title=\"[Merged]\"] is NOT DISPLAYED on the page",
+        "count": 8
+    },
+    {
+        "error": "Error: The element with selector \"//*[text() =\"Account Information\"]\" you are trying to pass into the execute method wasn't found",
+        "count": 19
+    },
+    {
+        "error": "ReferenceError: CbV Customer Support wasn't a valid choice for API Case creation!",
+        "count": 4
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[contains(@class,\"entityNameTitle\") and text()=\"Entitlement\"] is NOT DISPLAYED on the page",
+        "count": 4
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-17 00:10\" to contain \"2024-01-16\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element \"//div[@role=\"alertdialog\" and @data-key=\"success\"]\" to not be displayed after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-23 00:08\" to contain \"2024-01-22\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Mobile app not working\" to equal \"TestTech for SE\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-19 00:08\" to contain \"2024-01-18\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-24 00:09\" to contain \"2024-01-23\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Road Side Assistance cost\" to equal \"TestTech for SE\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-25 00:10\" to contain \"2024-01-24\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-26 00:09\" to contain \"2024-01-25\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-27 00:08\" to contain \"2024-01-26\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"d\u00e4cktryck\" to equal \"TestTech for SE\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-25 00:12\" to contain \"2023-12-24\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Jan 4, 2024\" to equal \"Jan 04, 2024\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-04 00:10\" to contain \"2024-01-03\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-05 00:14\" to contain \"2024-01-04\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Belgium\" to equal \"Luxembourg\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-22 00:09\" to contain \"2024-01-21\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-21 00:10\" to contain \"2024-01-20\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-28 00:10\" to contain \"2024-01-27\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"32\" does not equal expected text \"31\"",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"nsc agent uk test-cc-uat <joel.wall@volvocars.com>\" to contain \"volvo-support-uat@guerrillamail.com\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-02-04 00:07\" to contain \"2024-02-03\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-02-05 00:10\" to contain \"2024-02-04\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 04:07:01\" to contain \"04:06\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 12:57:02\" to contain \"12:56\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-02-01 00:10\" to contain \"2024-01-31\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //a[@role=\"tab\" and contains(@title,\"02914080\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-31 00:10\" to contain \"2024-01-30\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-01-30 00:09\" to contain \"2024-01-29\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: Element with selector '//span[text()=\"Cancellation Reason\"]/ancestor::div/following-sibling::lightning-select//option' is not matching expected length",
+        "count": 1
+    },
+    {
+        "error": "Step \"I am at the salesforce URL\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 186
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Remaining fields: Select a value for Primary type and Sub-type in the Case Wrap-up component\" to equal \"Status is updated!\" after the given timeout 30000",
+        "count": 5
+    },
+    {
+        "error": "Error: The element with selector \"//span[text()=\"Status\"]/parent::div/following-sibling::div//lightning-formatted-text\" you are trying to pass into the execute method wasn't found",
+        "count": 1
+    },
+    {
+        "error": "Error: Element with selector '//span[text()=\"Primary Type\"]/../following-sibling::div//a' is not displayed",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[contains(text(),\"This case is already cancelled.\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"https://volvocars--uat.sandbox.lightning.force.com/lightning/o/Order/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=170147207297948853&recordTypeId=0120O000000RNQVQA4\" does not include expected text \"801Vc0000011c4RIAQ\"",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-19 00:10\" to contain \"2023-12-18\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-18 00:11\" to contain \"2023-12-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-22 00:14\" to contain \"2023-12-21\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-15 00:09\" to contain \"2023-12-14\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-13 00:09\" to contain \"2023-12-12\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-16 00:07\" to contain \"2023-12-15\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-17 00:11\" to contain \"2023-12-16\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: The setValue/addValue command only take string or number values. If you like to use special characters, use the \"keys\" command.",
+        "count": 117
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-28 00:13\" to contain \"2023-12-27\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-29 00:14\" to contain \"2023-12-28\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-26 00:11\" to contain \"2023-12-25\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-27 00:10\" to contain \"2023-12-26\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-30 00:16\" to contain \"2023-12-29\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-31 00:14\" to contain \"2023-12-30\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2023-12-23 00:13\" to contain \"2023-12-22\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"case is escalated",
+        "count": 1
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02922791 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"ComplaintIssueTypeCase\" to equal \"TestTech for UK\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02940496 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //span[contains(@class,\"toastMessage\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:19:46\" to contain \"04:19\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: element (\"//span[@class=\"genericError uiOutputText\"]\") still not displayed after 30000ms",
+        "count": 2
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02923579 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02923183 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"08\" does not equal expected text \"06\"",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\" to equal \"On Desk\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Email to Case NO market - Email address verification\" to equal \"Einstein\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@class=\"allMilestones\"]//a[@title=\"Classification\"] is NOT DISPLAYED on the page",
+        "count": 2
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[contains(@class,\"entityNameTitle\")]//*[ text()=\"Entitlement\"] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@class=\"allMilestones\"]//a[@title=\"Finance Response Awaiting\"] is NOT DISPLAYED on the page",
+        "count": 7
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Grip Test Automation User\" to equal \"Cbv Sweden Agent Test-CC-UAT\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:23:20\" to contain \"04:23\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02939563 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: Error while processing email:AssertionError: No email received.",
+        "count": 472
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:24:26\" to contain \"04:24\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Complaint\" to equal \"\" after the given timeout 30000",
+        "count": 50
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:25:45\" to contain \"04:25\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Step \"I assemble a \"CustomerSupportCase\" case using agent \"NSC:TW\" for country \"TW\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 12
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-13 00:48\" to contain \"2024-04-12\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Please select a value for Requester field. Please enter the resolution for this case.\" to equal \"Remaining fields: Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: Assigned minutes 8 didn't match 9/10",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-14 00:52\" to contain \"2024-04-13\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-15 01:09\" to contain \"2024-04-14\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-16 00:53\" to contain \"2024-04-15\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Remaining fields: Please enter the resolution for this case.\" to equal \"Remaining fields: Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 11
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Remaining fields: Please select a value for Regulated Decision field.,Please enter the resolution for this case.\" to equal \"Remaining fields: Please select a value for Regulated Decision field.,Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Remaining fields: Select a value for Primary type and Sub-type in the Case Wrap-up component,Please select a value for Regulated Decision field.,Please enter the resolution for this case.\" to equal \"Remaining fields: Select a value for Primary type and Sub-type in the Case Wrap-up component,Please select a value for Regulated Decision field.,Please select a value for Requester field.,Please enter the resolution for this case.\" after the given timeout 30000",
+        "count": 6
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"16/04/2024 23:13\" to contain \"17/04/2024\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-17 01:03\" to contain \"2024-04-16\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-17 01:08\" to contain \"2024-04-16\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-17 01:13\" to contain \"2024-04-16\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-17 01:16\" to contain \"2024-04-16\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-17 01:06\" to contain \"2024-04-16\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@class=\"allMilestones\"]//a[@title=\"1 Day Response Time\"] is NOT DISPLAYED on the page",
+        "count": 7
+    },
+    {
+        "error": "AxiosError: Authorizing to Salesforce API failed!",
+        "count": 438
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Germany\" to equal \"Luxembourg\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //ul[@aria-orientation=\"horizontal\"]/li/a//span[contains(text(),\"New\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:20:45\" to contain \"04:20\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:24:10\" to contain \"04:24\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"21/04/2024 23:07\" to contain \"22/04/2024\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //span[text()=\"Web opt-in\"]/ancestor::dl//div//lightning-input[@checked=\"\"] is NOT DISPLAYED on the page",
+        "count": 4
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 06:46:21\" to contain \"04:46\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"22/04/2024 23:09\" to contain \"23/04/2024\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"23/04/2024 23:14\" to contain \"24/04/2024\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"nsc agent fr test-cc-uat <tejaswini.muddegowda@volvocars.com>\" to contain \"relation-client.volvo-uat@guerrillamail.com\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:25:47\" to contain \"04:25\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: element list \"(//span[contains(text(),\"02943924 Case is Escalated\")])/ancestor::a[@class=\"notification-link\"]\" stayed empty within 4000ms",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 06:17:20\" to contain \"05:17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-11 00:48\" to contain \"2024-04-10\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-12 01:10\" to contain \"2024-04-11\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Step \"I queue a \"VehicleReturn\" of queued case case using agent \"CBV:UK\" for country \"UK\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 1
+    },
+    {
+        "error": "Step \"I queue a \"VehicleReturn\" of queued case case using agent \"CBV:SE\" for country \"SE\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 1
+    },
+    {
+        "error": "Step \"I queue a \"VehicleReturn\" of queued case case using agent \"CBV:NO\" for country \"NO\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 1
+    },
+    {
+        "error": "Step \"I queue a \"VehicleReturn\" of queued case case using agent \"CBV:DE\" for country \"DE\"\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-10 00:47\" to contain \"2024-04-09\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"17/04/2024 23:06\" to contain \"18/04/2024\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:10\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:15\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:19\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:24\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:29\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:33\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:38\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:42\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:46\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:50\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:54\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 00:59\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 01:03\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 01:08\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"2024-04-18 01:12\" to contain \"2024-04-17\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"18/04/2024 23:12\" to contain \"19/04/2024\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 06:47:37\" to contain \"04:47\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: ERROR - ENV: Expected element \"//div[contains(@class,\"actionMenu\")]//ul/li/a[@title=\"Change Owner\"]\" to not be displayed after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Do not have permission to create global article.\" to equal \"Agents can only create Local articles.\" after the given timeout 30000",
+        "count": 17
+    },
+    {
+        "error": "AssertionError: ERROR - ENV: Expected element \"//div[@class=\"flexipagePage\"]//ul/li/a/div[@title=\"Publish\"]/parent::a\" to not be displayed after the given timeout 30000",
+        "count": 6
+    },
+    {
+        "error": "Error: User of type 'GlobalKnowledgeContributor' and env 'QA' was not available.",
+        "count": 5
+    },
+    {
+        "error": "Error: User of type 'SwedenKnowledgeManager' and env 'QA' was not available.",
+        "count": 30
+    },
+    {
+        "error": "AssertionError: ERROR - ENV: Expected element \"//runtime_platform_actions-action-renderer[@title=\"Change Owner\"]//a\" to not be displayed after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //article//div[@class=\"actionsContainer\"]//a[@title=\"Approve\"] is NOT DISPLAYED on the page",
+        "count": 242
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - ULYCSKZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //records-record-edit-error-header//h2 is NOT DISPLAYED on the page",
+        "count": 149
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - BGCPCSL\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - UFJYGWB\" in list",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"New Feedback on Article\" to equal \"Knowledge Article Assigned For Approval\" after the given timeout 30000",
+        "count": 28
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - UCKASJC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - VCKYCAP\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - GQLOFJE\" in list",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"[Attention]: Knowledge Article Review\" to equal \"Knowledge Article Assigned For Approval\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - UIBFLTL\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - NAGGQPZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - JEQRYFG\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - TMEJHKM\" in list",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Draft\" to equal \"Published\" after the given timeout 30000",
+        "count": 7
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - PEXTDYX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - QRFVSZV\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - CKSVEVL\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - FKKPRNV\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - GHMLXQU\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - QERJIUU\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - SJTMHDH\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - CWOCIOX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - UFKNJDQ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - URUXUYZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - JCLJZLN\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - IPFHKGX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - LVSDAGW\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - PREFSVZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - EWGUGCY\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - YMAFAQC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - IZMKIFK\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - LREHCKU\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - YWPODNP\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - ELVAYIE\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - OVGRGDF\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - RTIIIEG\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - VMHTFAZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - ABJHESS\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - PRYLWTN\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - NKWDJOM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - VNDXCTV\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - CMDGNFM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - WEURADO\" in list",
+        "count": 1
+    },
+    {
+        "error": "Error: The element with selector \"//a[@data-refid=\"recordId\" and @title=\"CGTWTLW\"]\" you are trying to pass into the execute method wasn't found",
+        "count": 1
+    },
+    {
+        "error": "Error: The element with selector \"//a[@data-refid=\"recordId\" and @title=\"KKFEXYM\"]\" you are trying to pass into the execute method wasn't found",
+        "count": 1
+    },
+    {
+        "error": "Error: The element with selector \"//a[@data-refid=\"recordId\" and @title=\"HCBFARJ\"]\" you are trying to pass into the execute method wasn't found",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - BTYYPEM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - KLOCMPK\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - ILPYSXT\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - QOZMEGY\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - TQJXNJJ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - DLDGUBT\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - MZEZZQY\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - XFXXXMB\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YEZJDOT\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - GWJAZIL\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YKUGTIQ\" in list",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Market Classification\" to equal \"Review Frequency\" after the given timeout 30000",
+        "count": 38
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - OYVLKUR\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - PETNJJC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - FXAMPSI\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YOFTTUC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - BALOOOS\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - SDSAMPE\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - TNBBYRW\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - HYYDPYZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - PWYGIOQ\" in list",
+        "count": 1
+    },
+    {
+        "error": "AssertionError [ERR_ASSERTION]: User of type 'GlobalKnowledgeManager:Global' and env 'QA' was not available.",
+        "count": 146
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"You received a new Lead for AT market\" to equal \"Knowledge Article Assigned For Approval\" after the given timeout 30000",
+        "count": 71
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - CMSSSXJ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - BYMSWVF\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - JVOUNIP\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - GBNFBPT\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - HWWDSUS\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - ABAGIWU\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - SIPGSJK\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QUSGMPB\" in list",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\" to equal \"The published version will remain online until you publish this draft.\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QFUFDRM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - NNIJXNK\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - THCOUDV\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - URJNHUR\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - LYTMHKU\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - TNUAAHH\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - ZJBHZIL\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - TKDDHOH\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - NWLGQHN\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - EGAUNJH\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - KUQUAME\" in list",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"We couldn\u2019t archive this article because there\u2019s an associated draft. Delete the draft, then try again.\" to equal \"The published version will remain online until you publish this draft.\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - HAWCABS\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - FJRPXIX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - THCNDQC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - FXVYJHF\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - JZDSAZO\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - UXEKBHM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - TQTMRND\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QBLVSBS\" in list",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"communication error, please retry or reload the page\" to contain \"please add at-least one topic data category, before publishing or sending for approval.\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - WFSOFYU\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QTZAJUA\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YMBPWUE\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QVNXAKW\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - LFLRCXT\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - FMWTINC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - CGFFGEM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YTXTGEL\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - XHWRGXD\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YMXWVZL\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - IQAZBHD\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QIQHQZW\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - WEJPGYN\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - EAPPNID\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - PDQIBIV\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - UKXOFSE\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - KUOMBVZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YYYFXPC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - VUSDPFW\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - ITBJRLW\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - LMODGPA\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - NTGGFOM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - PKPVCJB\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YGUWSXZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - CJUIIXS\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - LVDXOGU\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - CQDKUOM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - CTFJMOX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - UXYHQXI\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - SVLDDSR\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QOQVCNK\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - TFGPHPD\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - SLKYIGU\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - CSWBZRX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - GBJHMHU\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - IMYWBZC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QYBRGOB\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YXIPPGC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - TPYBPRS\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - OVARSXI\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - VIKVOPO\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - ZHCPVYM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - BPAIFKD\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - EMUOXLA\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - HACRBDO\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - OUFHOSI\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - MEMKZSD\" in list",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element \"//div[contains(@class,\"modal-container\")]//h2\" to not be displayed after the given timeout 30000",
+        "count": 6
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - WSQKIJX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - VBAWHAZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - VJXSPHC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - CYYOFQY\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - LVCMYJK\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - NPSOYBZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - BCAWWWC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - CYTBUTT\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - AJHOYBZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - VJCWEIM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - FCRMMQX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - ZBRVSAA\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - UOCTBUC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - TUGJMOX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YALQIKA\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - SBYPGEF\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QYJXMEZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - HNESJGM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YJMKCMB\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YRRWREM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - DOANWNZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - ARVNTSE\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - YHGJFDR\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - XMSREGX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QQEIELA\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - SVCOFFG\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - MRTIZCN\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - JVKUKKJ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - SANNBRE\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - HHTNAMY\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - XDQNFUN\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - FUFAZKU\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - QFAETJB\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - OSJGBWH\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - OSDDHSK\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - BMWPVYH\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - FSEWUCT\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - IDOTGIE\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - EAWEIEO\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - KQEDGSP\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - ZJHLRUD\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - PDNDIJS\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - BNGFBQO\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - IADMLOZ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - KHSMVBM\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - TJPOQTX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - EMYPBFF\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - UFQSJNX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - XPURXRC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - ZZBBKPX\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - JIZYQPS\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - SRWYRCB\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - VKRFUMY\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - FBXZUOC\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - FFWEMUO\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - AGHNFZR\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - WCSAKGR\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - PWLWMHH\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - BUFITIA\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - KLQSZPL\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - KVAIRLV\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - EUIDQCJ\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - IHQOCHL\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - WJXSFDL\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - BMYWQNK\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En Svensk Artikel - IBBIBFD\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - FYFSLNO\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - MKETCAH\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - UOAZUWW\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - KVEZSRW\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - VJYARZP\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - CKFWMTT\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - POEBSMY\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - LTFNGZK\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - EKNBMSG\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - EPUIOIP\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - BZFWWRB\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - OSLLCYT\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - PGASERE\" in list",
+        "count": 1
+    },
+    {
+        "error": "ReferenceError: Unable to find \"En articulo espa\u00f1ol - GRZQTMR\" in list",
+        "count": 1
+    },
+    {
+        "error": "Error: number or type of arguments don't agree with execute protocol command",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //header[@id=\"oneHeader\"]//span[contains(text(),\"NSC Agent AT Test-CC-UAT\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Error: Element with selector '//span[text()=\"Link Existing Records\"]/ancestor::div/following-sibling::div//ul[@role=\"tablist\"]//li/a' is not matching expected length",
+        "count": 54
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'accountName')",
+        "count": 4
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@class=\"slds-m-bottom_medium\"]/h4/a[text()=\"02014443\"] is NOT DISPLAYED on the page",
+        "count": 8
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@class=\"slds-m-bottom_medium\"]/h4/a[text()=\"02014421\"] is NOT DISPLAYED on the page",
+        "count": 16
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"account\" to contain \"vehicle\" after the given timeout 30000",
+        "count": 17
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //span[text()=\"TESTPERSON_DE01 DEACCOUNT\"]/ancestor::div[contains(@class,\"slds-listbox__option slds-listbox__option_entity\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"first name, last name, email\" to contain \"account\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: checkIncludes not valid",
+        "count": 14
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\" to contain \"deleaddata21 testleadde1\" after the given timeout 30000",
+        "count": 7
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"first name, last name, email\" to contain \"first name, last name, phone, email\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: Element with selector '//span[@class=\"message\" and text()=\"Chat with an Expert\"]' does not exist on the page",
+        "count": 46
+    },
+    {
+        "error": "Error: Element with selector '//img[contains(@id,\"liveagent_button_offline\") and contains(@style,\"display: none\")]' does not exist on the page",
+        "count": 64
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Webform automation message for SE\" to equal \"Web Case SE\" after the given timeout 30000",
+        "count": 4
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a href=\"/secur/logout.jsp\" class=\"action-link\" target=\"_self\" data-aura-rendered-by=\"12:179;a\">...</a> is not clickable at point (1272, 18). Other element would receive the click: <div class=\"modal-container slds-modal__container\" data-aura-rendered-by=\"1672:0\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'SE')",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 06:12:14\" to contain \"07:12\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 06:10:16\" to contain \"07:10\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@class=\"slds-m-bottom_medium\"]/h4/a[text()=\"undefined\"] is NOT DISPLAYED on the page",
+        "count": 3
+    },
+    {
+        "error": "Error: Vehicle support reason provided is not valid",
+        "count": 2
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a href=\"/secur/logout.jsp\" class=\"action-link\" target=\"_self\" data-aura-rendered-by=\"12:178;a\">...</a> is not clickable at point (1239, 18). Other element would receive the click: <div class=\"modal-container slds-modal__container\" data-aura-rendered-by=\"1773:0\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@class=\"uiOutputRichText\" and text()=\"How may I help you?\"] is NOT DISPLAYED on the page",
+        "count": 97
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a href=\"/secur/logout.jsp\" class=\"action-link\" target=\"_self\" data-aura-rendered-by=\"12:178;a\">...</a> is not clickable at point (1239, 18). Other element would receive the click: <div class=\"modal-container slds-modal__container\" data-aura-rendered-by=\"1348:0\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "invalid element state: invalid element state: Element is not currently interactable and may not be manipulated",
+        "count": 16
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"reasonvehiclelabel\" to contain \"vehicle support\" after the given timeout 30000",
+        "count": 12
+    },
+    {
+        "error": "unexpected alert open: unexpected alert open: {Alert text : }",
+        "count": 1
+    },
+    {
+        "error": "TypeError: Cannot read properties of null (reading 'selector')",
+        "count": 14
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 01:56:00\" to contain \"01:55\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element attribute \"aria-label\" to equal \"1 Not at all satisfied\" after the given timeout 30000",
+        "count": 4
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"International\" to equal \"Webform automation message for SE\" after the given timeout 30000",
+        "count": 12
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 01:42:00\" to contain \"01:41\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 01:46:00\" to contain \"01:45\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@class=\"uiOutputRichText\" and text()=\"Hey Chat\"] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "TypeError: this.validateSubjectAndDescription is not a function",
+        "count": 27
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[contains(text(),\"Account already linked with the Chat!\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Case from International webform\" to equal \"Webform automation message for SE\" after the given timeout 30000",
+        "count": 4
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Den f\u00f6rsta stationen \u00f6ppnades den 26 september 1855 tillsammans med den f\u00f6rsta j\u00e4rnv\u00e4gen i Sydney, s\" to equal \"Webform automation message for SE\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a href=\"/secur/logout.jsp\" class=\"action-link\" target=\"_self\" data-aura-rendered-by=\"12:178;a\">...</a> is not clickable at point (1252, 18). Other element would receive the click: <div class=\"modal-container slds-modal__container\" data-aura-rendered-by=\"1888:0\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 01:55:00\" to contain \"01:54\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"this is a test\" to contain \"webform automation message for be_fr\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a href=\"/secur/logout.jsp\" class=\"action-link\" target=\"_self\" data-aura-rendered-by=\"12:178;a\">...</a> is not clickable at point (1239, 18). Other element would receive the click: <div class=\"modal-container slds-modal__container\" data-aura-rendered-by=\"1414:0\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <textarea id=\"textarea\" placeholder=\"Type a message...\" class=\"slds-textarea runtime_service_liveagentChatInput\" data-aura-rendered-by=\"157:6220;a\" data-aura-class=\"runtime_service_liveagentChatInput\" style=\"height: 96px;\" data-proxy-id=\"aura-pos-lib-8\"></textarea> is not clickable at point (646, 436). Other element would receive the click: <div class=\"slds-grid searchBar slds-p-vertical_small\" data-aura-rendered-by=\"89:14532;a\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"this is a test\" to contain \"webform automation message for be_nl\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Sweden\" to equal \"United Kingdom\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"webform automation message for ch_fr\" to contain \"webform automation message for ch_de\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"webform automation message for ch_fr\" to contain \"webform automation message for ch_it\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"this is a test\" to contain \"webform automation message for it\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"this is a test\" to contain \"webform automation message for dk\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a href=\"/secur/logout.jsp\" class=\"action-link\" target=\"_self\" data-aura-rendered-by=\"12:177;a\">...</a> is not clickable at point (1239, 18). Other element would receive the click: <div class=\"modal-container slds-modal__container\" data-aura-rendered-by=\"1344:0\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 01:42:27\" to contain \"02:42\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[contains(text(),\"Case already linked with the Chat!\")] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //div[@class=\"slds-m-bottom_medium\"]/h4/a[text()=\"02884000\"] is NOT DISPLAYED on the page",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 01:40:49\" to contain \"02:40\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: The element with selector \"//*[text() =\"Case Information\"]\" you are trying to pass into the execute method wasn't found",
+        "count": 3
+    },
+    {
+        "error": "AssertionError: Error while processing email:Error: No ID found in the email body.",
+        "count": 4
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"Sweden\" to equal \"Germany\" after the given timeout 30000",
+        "count": 8
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element attribute \"aria-label\" to equal \"5 Zeer tevreden\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:12:54\" to contain \"04:12\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:33:33\" to contain \"04:33\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:40:05\" to contain \"04:40\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:51:53\" to contain \"04:51\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[text() =\"Vehicle  already linked with the Chat!\"] is NOT DISPLAYED on the page",
+        "count": 4
+    },
+    {
+        "error": "AssertionError: [!] Validation Error: Expected element -> //*[text() =\"Case already linked with the Chat!\"] is NOT DISPLAYED on the page",
+        "count": 3
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"France\" to equal \"Belgium\" after the given timeout 30000",
+        "count": 3
+    },
+    {
+        "error": "javascript error: javascript error: {\"status\":12,\"value\":\"Element is not currently interactable and may not be manipulated\"}",
+        "count": 21
+    },
+    {
+        "error": "Error: Element with selector '//span[text()=\"Find Existing Records\"]/ancestor::div/following-sibling::div//ul[@role=\"tablist\"]//li/a' is not matching expected length",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 02:26:28\" to contain \"12:26\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 02:34:21\" to contain \"12:34\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 02:50:56\" to contain \"12:50\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 02:58:49\" to contain \"12:58\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"webform automation message for ch_it\" to contain \"webform automation message for ch_fr\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 02:13:00\" to contain \"12:13\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 02:41:22\" to contain \"12:41\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 02:56:50\" to contain \"12:56\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 03:04:11\" to contain \"01:04\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 03:11:21\" to contain \"01:11\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:13:17\" to contain \"04:13\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:29:23\" to contain \"04:29\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:48:04\" to contain \"04:48\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:09:31\" to contain \"04:09\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:23:41\" to contain \"04:23\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <a href=\"/secur/logout.jsp\" class=\"action-link\" target=\"_self\" data-aura-rendered-by=\"12:180;a\">...</a> is not clickable at point (1263, 18). Other element would receive the click: <div class=\"modal-container slds-modal__container\" data-aura-rendered-by=\"1358:0\">...</div>",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:39:37\" to contain \"04:39\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:10:16\" to contain \"04:10\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:31:38\" to contain \"04:31\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:39:10\" to contain \"04:39\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:46:47\" to contain \"04:46\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 05:54:06\" to contain \"04:54\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 06:01:16\" to contain \"05:01\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"\u2022 06:08:36\" to contain \"05:08\" after the given timeout 30000",
+        "count": 1
+    },
+    {
+        "error": "Error: Element with selector '//lightning-base-combobox//lightning-base-combobox-item' is not matching expected length",
+        "count": 79
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"CbV Customer Support\" to equal \"Select Case Type\" after the given timeout 30000",
+        "count": 26
+    },
+    {
+        "error": "Error: Invalid Chai property: toBe. Did you mean \"to\"?",
+        "count": 34
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <input type=\"checkbox\" part=\"checkbox\" id=\"checkbox-207\" name=\"Work_Order_Created__c\" value=\"\"> is not clickable at point (339, 424). Other element would receive the click: <div id=\"walkme-overlay-all\" style=\"position: fixed; height: 100%; width: 100%; top: 0px; left: 0px; z-index: 2147483632; background-color: rgb(0, 0, 0); opacity: 0.5;\"></div>",
+        "count": 4
+    },
+    {
+        "error": "element click intercepted: element click intercepted: Element <input type=\"checkbox\" part=\"checkbox\" id=\"checkbox-206\" name=\"Work_Order_Created__c\" value=\"\"> is not clickable at point (339, 465). Other element would receive the click: <div id=\"walkme-overlay-all\" style=\"position: fixed; height: 100%; width: 100%; top: 0px; left: 0px; z-index: 2147483632; background-color: rgb(0, 0, 0); opacity: 0.5;\"></div>",
+        "count": 1
+    },
+    {
+        "error": "AssertionError",
+        "count": 1
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"UKDealerRetailContact\" to equal \"Mr. UKDealerRetailContact\" after the given timeout 30000",
+        "count": 2
+    },
+    {
+        "error": "TypeError: Cannot read properties of undefined (reading 'ownerID')",
+        "count": 40
+    },
+    {
+        "error": "Error: ERROR - ENV: Expected element text \"69367244653150724\" to equal \"12358367738990456\" after the given timeout 30000",
+        "count": 26
+    },
+    {
+        "error": "AssertionError: Validation Error: Actual text \"https://volvocars--uat.sandbox.lightning.force.com/lightning/o/Order/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=169249068555545138&recordTypeId=0123X000001GITxQAO\" does not include expected text \"8019E000003caJSQAY\"",
+        "count": 1
+    },
+    {
+        "error": "Error: Element with selector '//h2/a[text()=\"Orders\"]' is not displayed",
+        "count": 1
+    }
+]
