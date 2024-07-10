@@ -1,1 +1,0 @@
-<input class="input r4 wide mb16 mt8 password" type="password" id="password" name="pw" aria-describedby="error" aria-required="true" onkeypress="checkCaps(event)" autocomplete="off">

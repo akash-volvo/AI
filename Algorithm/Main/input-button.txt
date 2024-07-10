@@ -1,1 +1,0 @@
-    <button lwc-40a585din3p="" class="slds-button slds-button_brand" aria-disabled="false" title="Set goals" type="button" part="button" kx-scope="button-brand" kx-type="ripple">Set goals</button>

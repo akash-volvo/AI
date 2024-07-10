@@ -1,6 +1,0 @@
-gensim
-beautifulsoup4
-pandas
-numpy
-scikit-learn
-scipy

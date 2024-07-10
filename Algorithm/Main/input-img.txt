@@ -1,1 +1,0 @@
-<img data-aura-rendered-by="40:1854;a" src="/img/userprofile/img_success_bear.png" alt="">
